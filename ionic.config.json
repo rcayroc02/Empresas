@@ -1,7 +1,0 @@
-{
-  "name": "p_empresas_menu",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
